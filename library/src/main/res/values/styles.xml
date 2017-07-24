@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatingBarView">
+        <attr name="score" format="float"/>
+        <attr name="maxScore" format="integer"/>
+        <attr name="starColor" format="color|reference"/>
+        <attr name="starSize" format="dimension|reference"/>
+        <attr name="starSpaceSize" format="dimension|reference"/>
+    </declare-styleable>
+</resources>
